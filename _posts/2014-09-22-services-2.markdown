@@ -1,0 +1,19 @@
+---
+layout: default
+img: ../stock/power.png
+category: Services
+title: Power to the People
+description: |
+---
+  Bla de bla bla bla   Bla de bla bla bla
+  Bla de bla bla bla
+  Bla de bla bla bla
+  Bla de bla bla bla
+  Bla de bla bla bla
+  Bla de bla bla bla
+  Bla de bla bla bla
+  Bla de bla bla bla
+  Bla de bla bla bla
+  Bla de bla bla bla
+  Bla de bla bla bla
+  Bla de bla bla bla
