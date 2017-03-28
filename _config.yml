@@ -31,5 +31,6 @@ social:
     url: https://twitter.com/YottaTide
   - title: facebook
     url: https://facebook.com/YottaTide
-  - title: mail
+  - title: email
     url: mailto:heretohelp@yottatide.com?Subject=YottaTide%20Query
+    icon: envelope
