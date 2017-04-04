@@ -1,7 +1,7 @@
 # ----------------------- #
 #      Main Configs       #
 # ----------------------- #
-
+exclude: [vendor]
 url: http://yottatide.com
 title: YottaTide
 logo: <img src="img/logo.png" title="Test" id="logo" alt="YottaTide logo">

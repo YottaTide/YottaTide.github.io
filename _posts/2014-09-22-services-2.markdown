@@ -1,19 +1,11 @@
 ---
 layout: default
-img: ../stock/power.png
+img: ../handphone.png
 category: Services
-title: Power to the People
+title: FAIR and Beneficial to Everyone
 description: |
 ---
-  Bla de bla bla bla   Bla de bla bla bla
-  Bla de bla bla bla
-  Bla de bla bla bla
-  Bla de bla bla bla
-  Bla de bla bla bla
-  Bla de bla bla bla
-  Bla de bla bla bla
-  Bla de bla bla bla
-  Bla de bla bla bla
-  Bla de bla bla bla
-  Bla de bla bla bla
-  Bla de bla bla bla
+For too long advertisements have been a one-way street for corporations to persuade and influence the consumer.
+YottaTide tips the balance and gives users a fair say in the arrangement.
+
+YottaTide gives the consumer control over what they want to see, and how they want to get involved. Companies can then benefit in turn, by increased insight into areas of effective investment.

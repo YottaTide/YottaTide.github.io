@@ -2,18 +2,10 @@
 layout: default
 img: ../stock/foot.png
 category: Services
-title: First Foot Forward
+title: FUN Ads You Want To See
 description: |
 ---
-  Bla de bla bla bla   Bla de bla bla bla
-  Bla de bla bla bla
-  Bla de bla bla bla
-  Bla de bla bla bla
-  Bla de bla bla bla
-  Bla de bla bla bla
-  Bla de bla bla bla
-  Bla de bla bla bla
-  Bla de bla bla bla
-  Bla de bla bla bla
-  Bla de bla bla bla
-  Bla de bla bla bla
+Advertisements are everywhere, and so are ways and means to avoid them.
+With YottaTide's revolutionary approach to advertising, you can consider this social stigma as good as gone.
+
+Rather than wanting to skip, block or avoid advertisements, YottaTide works to get customers engaged with them. It makes them fun and interactive.

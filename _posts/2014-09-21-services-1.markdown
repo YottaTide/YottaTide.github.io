@@ -1,19 +1,12 @@
 ---
 layout: default
-img: ipad.png
+img: ../login.svg
 category: Services
-title: Random Section 1
+title: FRESH Advertising Like Never Before
 description: |
 ---
-  Bla de bla bla bla   Bla de bla bla bla
-  Bla de bla bla bla
-  Bla de bla bla bla
-  Bla de bla bla bla
-  Bla de bla bla bla
-  Bla de bla bla bla
-  Bla de bla bla bla
-  Bla de bla bla bla
-  Bla de bla bla bla
-  Bla de bla bla bla
-  Bla de bla bla bla
-  Bla de bla bla bla
+YottaTide gives an old and stale approach to advertising a new lick of paint.
+For years we have seen improvements on _how_ and _where_ to deliver advertisements, we have gone from
+ads on posters, billboards and magazines to phones, websites and email. The way in which the consumer is expected to interact with the ads however, has stayed the same.
+
+YottaTide gives both companies and consumers the power to interact with one another, to change the playing field and tailor their advertising experience, however they best see fit.
