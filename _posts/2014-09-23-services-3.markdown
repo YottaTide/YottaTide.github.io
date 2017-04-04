@@ -1,6 +1,6 @@
 ---
 layout: default
-img: ../stock/foot.png
+img: ../levitation.png
 category: Services
 title: FUN Ads You Want To See
 description: |
