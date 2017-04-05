@@ -113,8 +113,8 @@ h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(../img/stock/phone.jpg) no-repeat center center;
-    background-size: cover;
+    /* background: url(../img/stock/phone.jpg) no-repeat center center; */
+    background-color: #0389c1;
 }
 
 .banner h2 {
