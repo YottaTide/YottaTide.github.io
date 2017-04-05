@@ -113,6 +113,7 @@ h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
+    /* background: url(../img/stock/phone.jpg) no-repeat center center; */
     background-color: #0389c1;
 }
 
@@ -126,14 +127,14 @@ h6 {
     margin-bottom: 0;
 }
 
+.banner .container img {
+  float: right;
+  width: 300px;
+}
+
 .banner-social-buttons {
     float: right;
     margin-top: 0;
-}
-
-.banner img {
-  float:right;
-  width:300px;
 }
 
 @media(max-width:1199px) {

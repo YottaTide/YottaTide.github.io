@@ -127,6 +127,11 @@ h6 {
     margin-bottom: 0;
 }
 
+.banner .container img {
+  float: right;
+  width: 300px;
+}
+
 .banner-social-buttons {
     float: right;
     margin-top: 0;
