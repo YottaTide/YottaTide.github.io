@@ -1,0 +1,8 @@
+---
+layout: default
+img: ../levitation.png
+category: App
+title: A Quick Preview
+description: |
+---
+Take a first look inside our design process and see the YottaTide app in action.
