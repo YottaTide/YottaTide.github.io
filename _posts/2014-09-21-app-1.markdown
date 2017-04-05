@@ -1,7 +1,7 @@
 ---
 layout: default
 img: ../login.svg
-category: Services
+category: App
 title: FRESH Advertising Like Never Before
 description: |
 ---

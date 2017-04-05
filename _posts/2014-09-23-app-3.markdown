@@ -1,7 +1,7 @@
 ---
 layout: default
 img: ../levitation.png
-category: Services
+category: App
 title: FUN Ads You Want To See
 description: |
 ---
