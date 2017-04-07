@@ -1,6 +1,6 @@
 ---
 layout: default
-html: <iframe width="560" height="315" src="https://www.youtube.com/embed/wn9ByNKkPAA" frameborder="0" allowfullscreen></iframe>
+html: <iframe style="width: 100%; height: 350px;" src="https://www.youtube.com/embed/wn9ByNKkPAA" frameborder="0" allowfullscreen></iframe>
 category: App
 title: A Quick Preview
 description: |
