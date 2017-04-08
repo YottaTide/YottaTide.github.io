@@ -1,6 +1,6 @@
 ---
 layout: default
-img: ../handphone.png
+img: ../handphone.jpg
 category: App
 title: FAIR and Beneficial to Everyone
 description: |
